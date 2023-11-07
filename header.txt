@@ -1,4 +1,6 @@
 hello world
-
 change from master - new change
+text from master
+changes from first
 
+dont ask why
